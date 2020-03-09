@@ -16,6 +16,7 @@ public class Hello {
         System.out.print("Where do you live? ");
         response3=scanner.next();
         System.out.println("Wow! I've always wanted to go to "+response3+". Thanks for chatting with me. Bye!");
+        //GitHub comment
 
     }
 }
