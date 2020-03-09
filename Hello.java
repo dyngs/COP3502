@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Hello {
     public static void main(String[] args) {
-
+//this is a new comment
         Scanner scanner=new Scanner (System.in); // recalls the imported scanner
         String response1; // Defines Strings to be later used as as three input variables
         String response2;
